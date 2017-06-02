@@ -5,14 +5,14 @@
 	id ="com.phonegap.example9"
 	version ="1.0.0">
 	
-   <name> App9 Geolocalizador </name>
+   <name> App10 Ecologíar </name>
    
     <description>
-	 Aplicación que muestra la localización de tu móvil 
+	 Aplicación Con información ecológica
 	</description>
 	
 	<author href="https://build.phonegap.com" email="caralbap2000@gmail.com">
-	  Carlos alberto Ahguilar Pérez
+	  Carlos alberto Aguilar Pérez
 	</author>
 	
 	<!--Personaliza la aplicacion y plataforma -->
